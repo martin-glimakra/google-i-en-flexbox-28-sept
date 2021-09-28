@@ -29,31 +29,9 @@
     background-color: firebrick;
 }
 
-
 .a1 {
     flex: 1000;
     background-color: cornsilk;
-}
-
-.a2 {
-    flex: 1;
-}
-
-.a3 {
-    flex: 1;
-}
-
-.a4 {
-    flex: 1;
-}
-
-.a5 {
-    flex: 1;
-}
-
-.b1 {
-    flex: 1;
-    background-color: forestgreen;
 }
 
 .b2 {
@@ -83,3 +61,6 @@
     background-color: lightcoral;
 }
 
+.flex1 {
+    flex: 1;
+}
