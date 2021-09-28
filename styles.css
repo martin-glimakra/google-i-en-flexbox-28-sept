@@ -1,5 +1,5 @@
 .wrapper {
-    background-color: blue;
+    background-color: burlywood;
     height: 500px;
     width: 500px;
     display: flex;
@@ -7,5 +7,35 @@
 }
 
 .row {
+    flex: 1;
+    background-color: chocolate;
+}
+
+.b {
+    flex: 7;
+}
+
+.a {
+    display: flex;
+}
+
+.a1 {
+    flex: 1;
+    background-color: cornsilk;
+}
+
+.a2 {
+    flex: 1;
+}
+
+.a3 {
+    flex: 1;
+}
+
+.a4 {
+    flex: 1;
+}
+
+.a5 {
     flex: 1;
 }
