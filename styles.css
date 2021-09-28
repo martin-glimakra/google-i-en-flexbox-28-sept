@@ -11,12 +11,13 @@
     background-color: chocolate;
 }
 
+.a {
+    display: flex;
+}
+
 .b {
     flex: 7;
     background-color: crimson;
-}
-
-.a {
     display: flex;
 }
 
@@ -30,7 +31,7 @@
 
 
 .a1 {
-    flex: 1;
+    flex: 1000;
     background-color: cornsilk;
 }
 
@@ -48,4 +49,19 @@
 
 .a5 {
     flex: 1;
+}
+
+.b1 {
+    flex: 1;
+    background-color: forestgreen;
+}
+
+.b2 {
+    flex: 2;
+    background-color: gold;
+}
+
+.b3 {
+    flex: 1;
+    background-color: grey;
 }
