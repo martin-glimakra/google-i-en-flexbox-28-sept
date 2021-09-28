@@ -59,9 +59,27 @@
 .b2 {
     flex: 2;
     background-color: gold;
+    display: flex;
+    flex-direction: column;
 }
 
 .b3 {
     flex: 1;
     background-color: grey;
 }
+
+.b21 {
+    flex: 3;
+    background-color: hotpink;
+}
+
+.b22 {
+    flex: 5;
+    background-color: indigo;
+}
+
+.b23 {
+    flex: 3;
+    background-color: lightcoral;
+}
+
