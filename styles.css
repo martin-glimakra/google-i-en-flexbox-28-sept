@@ -13,11 +13,21 @@
 
 .b {
     flex: 7;
+    background-color: crimson;
 }
 
 .a {
     display: flex;
 }
+
+.c {
+    background-color: darkgoldenrod;
+}
+
+.d {
+    background-color: firebrick;
+}
+
 
 .a1 {
     flex: 1;
